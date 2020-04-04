@@ -1,0 +1,6 @@
+- 'solve-sudoku.c' is the source code for C program that solves the sudoku puzzle.
+- It takes the values row-wise as arguments from command line.
+
+- 'solve-sudoku.exe' is the compiled executable file.
+- Alternatively, you can also use the 'solve-sudoku.exe' file individually by supplying the puzzle matrix as input after running the file.
+(Check my Sudoku-Solver repository for more information on this point)
