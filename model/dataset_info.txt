@@ -1,0 +1,12 @@
+The dataset used to train the model was downloaded from the following link:
+
+http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
+
+Scroll down to the 'Download' section and download the 'EnglishFnt.tgz' file of size 51.1 MB.
+After extracting the above file, you will find 1016 samples of each digit and aplhabet in English Language. 
+Since we require the model to recognize only the digits, I used only the digit samples and not the other samples.
+The digit samples are in folders 'Sample001'-'Sample010'.
+
+*********************
+
+The model was not trained using the famous MNIST dataset, mainly because MNIST dataset contains handwritten images, whereas I needed my model to recognize the computer-written digits.
