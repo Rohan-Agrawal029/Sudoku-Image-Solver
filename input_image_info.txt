@@ -1,0 +1,15 @@
+Please note the following points regarding input images for this software:
+
+1) Make sure that the puzzle box is the only box (or biggest box) in the image.
+2) Click the picture in optimum lighting.
+3) The dimensions of each cell in the puzzle box should be even (preferably computer generated puzzle box and not hand drawn). If the puzzle is being drawn by hand, make sure the edges of puzzle box do not go beyond the corners and the cell dimensions are even. Also make sure that the puzzle box is a complete and perfect square (the edges should touch each corner, no empty spaces allowed).
+4) Use a high quality image (if possible).
+5) The ML digit recognition model recognizes digits written in computer font, but may also work for handwritten digits. If digits are written by hand, make sure they are clear and are placed in center of the cell.
+6) Sometimes the output may not be accurate if the puzzle box boundaries are too light. So, it is preferable to use an image with a normal or bold puzzle boundary. If the boundaries are too light, kindly use any image editing tool to enhance the boundaries (draw lines on it) or draw the boundaries manually before clicking the picture.
+
+******************
+
+Please note that the above software is not 100% accurate. 
+Sometimes, the puzzle box may not get recognized properly or the model may not be able to predict the digits accurately.
+The software was tested for 15 images, out of which 9 images gave the accurate output. The model failed to predict the digits accurately and missed one or two digits in 4 images and the puzzle box was not recognized  properly in the remaining 2 images.
+
