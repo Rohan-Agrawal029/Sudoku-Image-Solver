@@ -1,0 +1,22 @@
+******HOW TO USE:******
+The line numbers mentioned below are in refernce to the 'sudoku-image-solver.py' file
+
+1) Create two folders named 'digitsAll' and 'digits'.
+2) Change the 'path_digitsAll' variable in line 321 to the path to the digitsAll folder and the 'path_digits' variable in line 322 to the path to the digits folder in your system.
+3) Change the path to the 'digit_recog_comp_font2.h5' in line 339 according to your system.
+4) Change the 'path' variable in line 489 to where the executable file of C program named 'sudoku-solver' is stored.
+
+******NOTE:****** 
+1) DO NOT CHANGE THE NAME OF FILES!!!!
+2) A PYTHON COMPILER MUST BE INSTALLED IN YOUR SYSTEM.
+3) THE FOLLOWING LIBRARIES NEED TO BE INSTALLED IN YOUR PYTHON ENVIRONMENT:
+- TENSORFLOW
+- OPENCV (CV2)
+- IMUTILS
+- NUMPY
+- ARGPARSE
+- OS
+- MATPLOTLIB
+
+*******COMMAND TO EXECUTE THE PROGRAM:*******
+<path to python compiler> sudoku-image-solver.py -i <path to input image>
