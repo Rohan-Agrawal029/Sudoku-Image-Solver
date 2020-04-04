@@ -1,0 +1,2 @@
+- 'digit_recog_comp_font.py' contains the source code for creating the model.
+- 'digit_recog_comp_font2.h5' is the created model.
