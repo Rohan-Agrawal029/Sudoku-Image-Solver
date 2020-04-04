@@ -1,0 +1,13 @@
+Uncomment the following lines to see step by step output:
+
+436 - to see the input image
+446 - to see the greyed, resized image
+19 - to see the blurred image (in process func)
+23 - to see the threshold image (in process func)
+457 - to see the input image with puzzle box marked
+461 - to see the puzzle image after applying perspective transform
+466 - to see the grid on puzzle image
+475 - to see the processed cell images in a single image
+480 - to see the 1D digit list returned after digit recognition
+485 - to see the 2D digit list returned after making puzzle from 1D digit list
+494 - to see the command passed to execute the C program
