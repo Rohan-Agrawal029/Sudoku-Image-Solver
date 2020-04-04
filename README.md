@@ -3,6 +3,8 @@ This is a software that can solve the sudoku puzzle using an image of the image.
 
 Kindly check the 'usage.txt' file for information on how to use the software.
 
+Kindly check the 'input_image_info.txt' file for information on images that can be supplied to this software.
+
 Information about the C program, model and datasets are present in respective folders. I encourage the users to go through them once for better understanding.
 
 All the code is well-documented and almost everything is explained using comments.
