@@ -1,10 +1,11 @@
 ******HOW TO USE:******
-The line numbers mentioned below are in refernce to the 'sudoku-image-solver.py' file
+The line numbers mentioned below are in reference to the 'sudoku-image-solver.py' file.
 
-1) Create two folders named 'digitsAll' and 'digits'.
-2) Change the 'path_digitsAll' variable in line 321 to the path to the digitsAll folder and the 'path_digits' variable in line 322 to the path to the digits folder in your system.
-3) Change the path to the 'digit_recog_comp_font2.h5' in line 339 according to your system.
-4) Change the 'path' variable in line 489 to where the executable file of C program named 'sudoku-solver' is stored.
+1) Download all the files.
+2) Create two folders named 'digitsAll' and 'digits'.
+3) Change the 'path_digitsAll' variable in line 321 to the path to the digitsAll folder and the 'path_digits' variable in line 322 to the path to the digits folder in your system.
+4) Change the path to the 'digit_recog_comp_font2.h5' in line 339 to where the file 'digit_recog_comp_font2.h5' is stored.
+5) Change the 'path' variable in line 489 to where the executable file of C program named 'sudoku-solver.exe' is stored.
 
 ******NOTE:****** 
 1) DO NOT CHANGE THE NAME OF FILES!!!!
