@@ -11,5 +11,5 @@ Please note the following points regarding input images for this software:
 
 Please note that the above software is not 100% accurate. 
 Sometimes, the puzzle box may not get recognized properly or the model may not be able to predict the digits accurately.
-The software was tested for 15 images, out of which 9 images gave the accurate output. The model failed to predict the digits accurately and missed one or two digits in 4 images and the puzzle box was not recognized  properly in the remaining 2 images.
+The software was tested for 15 images, out of which 9 images gave the accurate output. The model failed to predict the digits accurately and missed one or two digits in 4 images and the puzzle box was not recognized properly in the remaining 2 images.
 
