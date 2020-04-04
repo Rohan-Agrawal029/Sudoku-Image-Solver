@@ -5,7 +5,7 @@ Kindly check the 'usage.txt' file for information on how to use the software.
 
 Information about the C program, model and datasets are present in respective folders. I encourage the users to go through them once for better understanding.
 
-All the code is well-documented and almost everything is explained in comments.
+All the code is well-documented and almost everything is explained using comments.
 
 Python 3.6 was used to compile the above python scripts and 'bcc32c' compiler was used to compile the C program.
 
